@@ -1,0 +1,27 @@
+body{ 
+	background-color:#ffa366;
+	font-family:braggadocio; 
+	color: #75a3a3;
+}
+table{
+	color:#cc0000;
+}
+a{
+	color:#75a3a3;
+}
+div {
+	width: 300px;
+	border: 35px solid maroon;
+	padding: 50px;
+	margin: 20px;
+	color: #000000;
+}
+div2{
+	float: right;
+	width: 300px;
+	border: 35px solid maroon;
+	padding: 50px;
+	margin: 20px;
+	color: #000000;
+}
+	

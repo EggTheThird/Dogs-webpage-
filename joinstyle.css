@@ -1,0 +1,11 @@
+body{ 
+	background-color:#cce6ff;
+	font-family:skia; 
+	color: #00004d;
+}
+div{
+	width:150px;
+	border:5px dotted yellow;
+	padding:25px;
+	margin:30px;
+}

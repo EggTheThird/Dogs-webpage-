@@ -1,0 +1,27 @@
+h1{
+	color:#990000;
+}
+h2{
+	color:#990000;
+}
+body{
+	background-color:#b3d9ff;
+	color:#000000;
+}
+div#table{
+	width: 500px;
+	border: 10px groove maroon;
+	padding: 10px;
+	margin: 10px;
+}
+td{
+	border-right: 2px groove maroon;
+}
+div#sidebar{
+	border: 10px groove maroon;
+	padding:0px;
+	margin: 0px;
+	position: fixed;
+	top: 70;
+	left: 10;
+}
